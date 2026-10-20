@@ -52,3 +52,4 @@ if altura_final <= 0:
 else:
 
     print(f"El objeto se encuentra a una altura de {altura_final} metros tras {tiempo} segundos")
+
